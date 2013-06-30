@@ -3,6 +3,15 @@ LazyLinkLazer
 Click something a few words in size feels like an attempt to make a headshot in a FPS- hard. 
 Lady Lovelace's Lazy Link Lazer makes it easier to click links because you only need to click near a link instead of on it. 
 
+Usage
+-----
+Check out this project then open the test.html project to try the laser.
+This project has a very unpolished attempt to package the laser as a Chrome plugin for use on any webpage.
+
+Dependencies
+------------
+jQuery
+
 Related Concepts
 ----------------
 - [Fitt's Law](http://en.wikipedia.org/wiki/Fitts's_law)
